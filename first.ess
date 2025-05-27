@@ -11,6 +11,7 @@ start
     log string "A"
     set i i + 1
   end counter
+  finish
 
 2.3
 start
